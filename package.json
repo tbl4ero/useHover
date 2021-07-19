@@ -1,5 +1,5 @@
 {
-  "name": "usehover",
+  "name": "@tbl4ero/usehover",
   "version": "1.0.0",
   "description": "A simple react hover hook",
   "babel": {
